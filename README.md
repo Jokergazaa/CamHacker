@@ -24,7 +24,7 @@ cd CamHacker
 
 For termux, use additional command termux-setup-storage
 
-bash CAMAHM.sh
+bash ch.sh
 
 
 
